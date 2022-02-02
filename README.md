@@ -1,2 +1,2 @@
 # Froggy
-Game developed using python.
+A Game developed using pure python using PyGame library.
